@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.1",
+    "mysql2": "^3.11.3",
+    "pg": "^8.13.0",
+    "sqlite3": "^5.1.7"
+  },
+  "version": "1.0.0",
+  "main": "mongoServer.js",
+  "scripts": {
+    "start": "nodemon mongoServer"
+  },
+  "keywords": [],
+  "author": "Anjali",
+  "license": "ISC",
+  "description": ""
+}
